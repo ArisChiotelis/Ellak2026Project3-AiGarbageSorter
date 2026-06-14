@@ -297,25 +297,7 @@ Motor B: D7, D8, PWM 3
 media/
 ```
 
-Ενδεικτικά αρχεία:
 
-```markdown
-![Σχεδιασμός κυκλώματος L293D](media/photos/stage_01_l293d_design.jpg)
-
-![Κατασκευή μακέτας Auto-Recycle](media/photos/stage_02_mockup_build.jpg)
-
-![Δοκιμή μηχανισμού μεταφοράς](media/photos/stage_03_motor_test.jpg)
-
-![Δοκιμή HuskyLens](media/photos/stage_04_huskylens_test.jpg)
-
-![Τελική μορφή εκπαιδευτικού πρωτοτύπου](media/photos/stage_05_final_prototype.jpg)
-```
-
-Προτεινόμενα βίντεο:
-
-```text
-media/videos/motor_test_l293d.mp4
-media/videos/huskylens_recognition_test.mp4
 ```
 
 Σε δημόσια ανάρτηση πρέπει να αποφεύγεται η εμφάνιση προσώπων μαθητών, εκτός αν υπάρχουν οι απαραίτητες άδειες. Προτείνεται οι φωτογραφίες και τα βίντεο να δείχνουν κυρίως τη μακέτα, τα χέρια των μαθητών, το κύκλωμα, τον υπολογιστή και τα εξαρτήματα.
